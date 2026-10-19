@@ -1,0 +1,445 @@
+{
+  "company_name": {
+    "value": "Stripe",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stripe,_Inc.",
+        "title": "Stripe, Inc.",
+        "published_date": "2026-10-03T00:00:00.000Z",
+        "quote": "Stripe, Inc."
+      }
+    ],
+    "note": null
+  },
+  "website_domain": {
+    "value": "stripe.com",
+    "status": "verified",
+    "sources": [],
+    "note": "provided by the user"
+  },
+  "company_description": {
+    "value": "Stripe is a technology company focused on improving the conditions for economic growth and prosperity.",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://stripe.com/about",
+        "title": "About Us | Stripe",
+        "published_date": null,
+        "quote": "Stripe is a technology company focused on improving the conditions for economic growth and prosperity."
+      }
+    ],
+    "note": null
+  },
+  "industry": {
+    "value": "Financial services Payment processor",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stripe,_Inc.",
+        "title": "Stripe, Inc.",
+        "published_date": "2026-10-03T00:00:00.000Z",
+        "quote": "Industry | Financial services Payment processor"
+      }
+    ],
+    "note": null
+  },
+  "target_market": {
+    "value": "Businesses of all sizes, from solo founders to Fortune 500 enterprises",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://stripe.com/about",
+        "title": "About Us | Stripe",
+        "published_date": null,
+        "quote": "More than 5 million businesses build on Stripe, spanning the economic frontier—from solo founders to established enterprises"
+      },
+      {
+        "url": "https://stripe.com/customers",
+        "title": "Our customers | Stripe",
+        "published_date": null,
+        "quote": "More than 5 million businesses build on Stripe, spanning the economic frontier—from solo founders to established enterprises"
+      }
+    ],
+    "note": null
+  },
+  "employee_size": {
+    "value": "8,500 (2025)",
+    "status": "verified",
+    "sources": [
+      {
+        "url": "https://en.wikipedia.org/wiki/Stripe,_Inc.",
+        "title": "Stripe, Inc.",
+        "published_date": "2026-10-03T00:00:00.000Z",
+        "quote": "Number of employees | 8,500 (2025)"
+      }
+    ],
+    "note": null
+  },
+  "recent_growth_signals": [
+    {
+      "value": "April 29, 2026 – announced 288 new AI‑related products and features",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/newsroom/news/sessions-2026",
+          "title": "Stripe builds out the economic infrastructure for AI with 288 launches",
+          "published_date": "2026-04-29T00:00:00.000Z",
+          "quote": "Stripe builds out the economic infrastructure for AI with 288 launches \n\n April 29, 2026"
+        }
+      ],
+      "note": null
+    },
+    {
+      "value": "October 6, 2026 – partnership with FedEx Dataworks to create financing solutions for SMBs",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/newsroom/news/fedex-and-stripe",
+          "title": "FedEx Dataworks and Stripe to join forces to reduce friction in global commerce for SMBs",
+          "published_date": "2026-10-06T00:00:00.000Z",
+          "quote": "FedEx Dataworks and Stripe to join forces to reduce friction in global commerce for SMBs \n\n October 6, 2026"
+        }
+      ],
+      "note": null
+    },
+    {
+      "value": "October 16, 2026 – expanded Global Payouts to 160 markets and added stablecoin payouts",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+          "title": "New ways for fintechs to move money and expand globally",
+          "published_date": "2026-10-16T00:00:00.000Z",
+          "quote": "# New ways for fintechs to move money and expand globally \n\n October 16, 2026"
+        }
+      ],
+      "note": null
+    },
+    {
+      "value": "2025 – processed $1.9 trillion in payments volume",
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/",
+          "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+          "published_date": null,
+          "quote": "$1.9T in payments volume processed in 2025"
+        }
+      ],
+      "note": null
+    }
+  ],
+  "potential_gtm_opportunity": {
+    "value": "High potential due to large global customer base, extensive programmable financial product suite, and recent AI and partnership expansions",
+    "status": "inferred",
+    "sources": [
+      {
+        "url": "https://stripe.com/about",
+        "title": "About Us | Stripe",
+        "published_date": null,
+        "quote": null
+      },
+      {
+        "url": "https://stripe.com/customers",
+        "title": "Our customers | Stripe",
+        "published_date": null,
+        "quote": null
+      },
+      {
+        "url": "https://stripe.com/newsroom/news",
+        "title": "Stripe Newsroom: The Latest News & Announcements",
+        "published_date": "2026-10-06T00:00:00.000Z",
+        "quote": null
+      },
+      {
+        "url": "https://stripe.com/newsroom/news/sessions-2026",
+        "title": "Stripe builds out the economic infrastructure for AI with 288 launches",
+        "published_date": "2026-04-29T00:00:00.000Z",
+        "quote": null
+      },
+      {
+        "url": "https://stripe.com/newsroom/news/fedex-and-stripe",
+        "title": "FedEx Dataworks and Stripe to join forces to reduce friction in global commerce for SMBs",
+        "published_date": "2026-10-06T00:00:00.000Z",
+        "quote": null
+      },
+      {
+        "url": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+        "title": "New ways for fintechs to move money and expand globally",
+        "published_date": "2026-10-16T00:00:00.000Z",
+        "quote": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Stripe,_Inc.",
+        "title": "Stripe, Inc.",
+        "published_date": "2026-10-03T00:00:00.000Z",
+        "quote": null
+      }
+    ],
+    "note": "reasoned from the cited evidence"
+  },
+  "decision_makers": [
+    {
+      "value": {
+        "name": "Patrick Collison",
+        "role": "Cofounder and CEO"
+      },
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/newsroom/information",
+          "title": "Stripe Newsroom | Information and assets",
+          "published_date": null,
+          "quote": "Patrick Collison \nCofounder and CEO"
+        }
+      ],
+      "note": null
+    },
+    {
+      "value": {
+        "name": "John Collison",
+        "role": "Cofounder and President"
+      },
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/newsroom/information",
+          "title": "Stripe Newsroom | Information and assets",
+          "published_date": null,
+          "quote": "John Collison \nCofounder and President"
+        }
+      ],
+      "note": null
+    },
+    {
+      "value": {
+        "name": "Will Gaybrick",
+        "role": "President, Technology and Business"
+      },
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/newsroom/information",
+          "title": "Stripe Newsroom | Information and assets",
+          "published_date": null,
+          "quote": "Will Gaybrick \nPresident, Technology and Business"
+        }
+      ],
+      "note": null
+    },
+    {
+      "value": {
+        "name": "Jeff Titterton",
+        "role": "Chief Marketing Officer"
+      },
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/newsroom/information",
+          "title": "Stripe Newsroom | Information and assets",
+          "published_date": null,
+          "quote": "Jeff Titterton \nChief Marketing Officer"
+        }
+      ],
+      "note": null
+    },
+    {
+      "value": {
+        "name": "Tyler Bryson",
+        "role": "Chief Revenue Officer"
+      },
+      "status": "verified",
+      "sources": [
+        {
+          "url": "https://stripe.com/newsroom/information",
+          "title": "Stripe Newsroom | Information and assets",
+          "published_date": null,
+          "quote": "Tyler Bryson \nChief Revenue Officer"
+        }
+      ],
+      "note": null
+    }
+  ],
+  "contact_information": {
+    "value": null,
+    "status": "unavailable",
+    "sources": [],
+    "note": "only shown when an authorized provider returns it"
+  },
+  "source_urls": [
+    "https://stripe.com/about",
+    "https://stripe.com/products",
+    "https://stripe.com/customers",
+    "https://stripe.com/",
+    "https://stripe.com/newsroom/news",
+    "https://stripe.com/newsroom/news/sessions-2026",
+    "https://stripe.com/newsroom/news/fedex-and-stripe",
+    "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+    "https://stripe.com/careers/search",
+    "https://stripe.com/careers",
+    "https://boards.greenhouse.io/embed/job_board?for=stripe",
+    "https://stripe.com/newsroom/information",
+    "https://stripe.com/sessions/2024/opening-keynote",
+    "https://jobs.a16z.com/company/stripe",
+    "https://en.wikipedia.org/wiki/Stripe,_Inc."
+  ],
+  "providers": [
+    {
+      "name": "enrichment",
+      "state": "skipped",
+      "message": "Enrichment skipped: MoltSets is not used in this version. Report is based on public research only."
+    },
+    {
+      "name": "exa",
+      "state": "ok",
+      "message": "cost $0.035"
+    },
+    {
+      "name": "groq",
+      "state": "ok",
+      "message": ""
+    }
+  ],
+  "warnings": [],
+  "mock_enrichment": null,
+  "dropped_claims": [],
+  "evidence": [
+    {
+      "id": "E1",
+      "url": "https://stripe.com/about",
+      "title": "About Us | Stripe",
+      "published_date": null,
+      "highlight": "About Us | Stripe\n\nStripe is a technology company focused on improving the conditions for economic growth and prosperity.\n\nWe build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale.\n\nMore than 5 million businesses build on Stripe, spanning the economic frontier—from solo founders to established enterprises—united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.7% of global GDP.\n\nWhile economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches.\n\nOur own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible.",
+      "category": "profile",
+      "provider": "exa"
+    },
+    {
+      "id": "E2",
+      "url": "https://stripe.com/products",
+      "title": "Stripe Products and Features | Stripe",
+      "published_date": null,
+      "highlight": "Stripe Products and Features | Stripe\n\n# See everything Stripe can do. Explore products for payments, risk, revenue, banking, data, and more.\n\n## Accept and optimize payments globally\n\nTake payments anywhere—online, in person, and through agents. Access 125+ payment methods and 135+ currencies.\n\nHere's what I found:\n\nAgentic commerce\n\nLaunch a secure, customizable, conversion-optimized checkout. Businesses see 2x growth in payment volume on average.\n\nAutofill customer details for faster human and agentic checkouts, with higher conversion and lower costs.\n\nOptimized payments globally\n\nFraud and risk protection\n\nManaged Payments\n\nFocus on growth while Stripe Managed Payments handles tax, fraud, disputes, and more as your merchant of record.\n\n$56.88\n\nTerminal\n\nAccept in-person payments with precertified devices and unified reporting across online and in-person sales.\n\nCost savings\n\nFeature\n\nCost savings\n\nAdaptive Acceptance\n\nIncrease acceptance rates by 3.8% on average and reduce costs by up to 3.3% with AI-powered optimizations trained on billions of transactions.\n\nAccept payments online, in person, and around the world with access to 125+ payment methods and a 99.999% historical uptime.\n\n...\n\n## Safeguard your business without slowing growth\n\nProtect revenue and minimize losses with fraud prevention, identify verification, and financial risk management.\n\nRule performance\n\nBlock transaction fraud, account fraud, and customer abuse with AI, powered by hundreds of billions of data points across the Stripe network.\n\nDriver License\n\n083187\n\nIdentity\n\nVerify IDs and selfies in seconds—with programmatic checks for age and document validity—to reduce fraud and streamline compliance.\n\nManaged Risk\n\nReduce operational overhead and financial risk with end-to-end risk management across your entire platform.\n\n## Automate revenue, from billing to reconciliation\n\nMove fast and free up resources with flexible billing models, including subscription management and one-time invoicing, tax, and automated reconciliation.\n\nMonthly subscription\n\nSell, bill, collect, and report from one place, with 15+ prebuilt pricing models, including usage-based and hybrid.\n\nLLM token usage\n\n478.5M\n\n$2,392.49\n\nMetronome\n\nMeter, bill, and track usage-based revenue in one place—with flexible infrastructure for iterations, real-time data, and billing transparency.\n\nInvoicing\n\nGet insights faster with automated data syncing, custom and prebuilt reports, and intelligence from Stripe’s global network.\n\nSelect your data storage destination\n\nRisk insights\n\n0 65 75 99\n\nSignals\n\n## Receive, store, send, and finance from one place.\n\nProcess payments, store multiple currencies and stablecoins, and send and spend money globally.\n\nFinancial account\n\n$22,460.19\n\nOnboard businesses and offer them payments, financing, card issuing, financial accounts, and more.\n\nAccount Account status Payment balance\n\nGleason Group\n\nEnabled\n\nEmbed payments and financial services in weeks, not quarters, with 40+ embedded components. Used by 16,000+ platforms.\n\n## Launch borderless financial services with crypto\n\nReach untapped customers, pay out instantly across borders, build global financial services, and generate agentic revenue with crypto and stablecoin infrastructure.\n\nCrypto\n\nAccess everything you need to build and grow—from developer tools and sandboxes to reporting, compliance, and support.\n\nEnable agents to handle Stripe end to end, from writing payment logic to\n\n...\n\n#### Learn more about Stripe’s products.\n\nWhat is Stripe?\n\nStripe is programmable financial infrastructure that helps you build and run a global business. You can use Stripe to accept payments, manage revenue, prevent fraud, move money across borders, and access a suite of developer tools and APIs. Stripe processes trillions of dollars annually for companies ranging from early-stage startups to large enterprises.\n\nWhat does Stripe do?\n\nStripe helps businesses of all kinds accept payments globally, prevent fraud, automate revenue management, move and manage money, monetize payments and financial services, and operate across borders.\n\nWhat types of businesses use Stripe?\n\nBusinesses of every size and model use Stripe—from early-stage startups to global enterprises, across retail, travel, AI, insurance, SaaS, nonprofits, online marketplaces, and more.\n\nHow does Stripe support AI businesses and agentic commerce?\n\nStripe is the economic infrastructure for AI. Whether you’re monetizing an AI product, making your catalog discoverable to AI agents, or building agents that can transact on your behalf, Stripe can support it—from flexible billing models to agentic checkout and developer tools built specifically for how agents work.",
+      "category": "profile",
+      "provider": "exa"
+    },
+    {
+      "id": "E3",
+      "url": "https://stripe.com/customers",
+      "title": "Our customers | Stripe",
+      "published_date": null,
+      "highlight": "Our customers | Stripe\n\n# The payments platform behind millions of businesses \n\n We’re building a platform for ambitious companies around the world to make moving money as simple, borderless, and programmatic as the rest of the internet. Our teams are based in dozens of global offices and we process hundreds of billions of dollars each year for every size of business—from startups to Fortune 500s. \n\n# $70M \n\ntotal increase in Postmates’ annual revenue\n\n# 6 months faster \n\nfor Weave to launch a new payments platform\n\nuplift in Twilio’s payment acceptance rate\n\n# 12 new countries \n\nNoom expansion in one month with Stripe\n\nReduction in customer onboarding time\n\nFast reconciliation with a single report\n\n# Products used \n\n- Billing \n- Connect \n- 3 more \n\npaid subscriptions to writers and creators\n\ngrowth in online payments volume in just 6 months\n\n# 3 weeks \n\nof development work to go live\n\n# 10% \n\nuplift in overall authorization rates\n\n# Products used \n\ngross transaction volume on Lightspeed\n\ndeployment timeline for in-store payments\n\n# Products used \n\n# We partner with customers to build breakthrough products \n\nStripe is the fastest-evolving payments platform and builds market-first functionality specifically for our customers’ needs.\n\n# Challenge \n\nLyft’s biggest request from drivers was the ability to get paid more frequently compared to traditional weekly payouts, which meant Lyft needed to find a way to seamlessly pay out drivers at their convenience.\n\n# Solution \n\nLyft worked with Stripe to build Express Pay, providing drivers the ability to decide when they want to get paid out—typically within a few hours of a ride.\n\n# Challenge \n\nInstacart facilitates a multi-sided marketplace with complex payment needs. Instacart needed a way to streamline payments and payouts across consumers, grocery stores, shoppers, and delivery partners.\n\nStripe enabled all aspects of Instacart’s intricate payments infrastructure to function at scale, making it easy for customers to pay the way they want, and using features like Instant Cashout to speed up payouts to shoppers and retailers.\n\n# Products \n\nInstant Cashout $150.00 Tips are paid with your weekly deposit\n\nAvailable amount $150.00\n\nTransaction fee 50¢\n\nTransfer amount $149.50\n\n 0033 Edit \n\nTransfers typically take only a few minutes but it may take up to 24 hours depending on your bank.\n\n Confirm cashout \n\n# Challenge \n\nDealing with banking and financial services is an essential part of running a business, yet most of today’s banking services aren’t designed for the needs of Shopify’s independent business owners.\n\n# Solution \n\nShopify built Shopify Balance using Stripe Treasury to offer Shopify merchants a fast, simple, and integrated way to obtain critical financial products and oversee their finances—all within Shopify.\n\n# Products \n\n- Treasury for platforms\n- Payments\n- Connect\n- Issuing\n\n> Stripe Treasury gives us the flexibility to customize Shopify Balance specifically for our merchants. By building across Stripe’s payments and banking infrastructure, we’ve been able to give Shopify merchants access to critical financial products that meet their needs, like faster access to funds and rewards, helping them further grow their businesses. \n> \n> Tui Allen, Senior Lead of Banking Services\n\n...\n\n# Challenge \n\nTo prevent the most catastrophic effects of climate change, we need to radically reduce the new emissions we put into the air, and develop new carbon removal technologies to remove carbon already in the atmosphere. \n\n# Solution \n\nStripe partnered with forward-thinking businesses like Flexport to launch Stripe Climate, which makes it easy for businesses to contribute a fraction of revenue to fund frontier carbon removal technology. So far, more than two thousand businesses have purchased frontier carbon removal with Stripe Climate.\n\n# Products \n\n- Climate\n- Radar\n- Payments\n- Issuing\n\n> There’s huge potential for Stripe Climate to drive meaningful change in protecting the environment. We're excited to be part of it and to help unlock new solutions to humanitarian and environmental issues. \n> \n> Susy Schöneberg, VP of Impact and GM of Flexport.org",
+      "category": "profile",
+      "provider": "exa"
+    },
+    {
+      "id": "E4",
+      "url": "https://stripe.com/",
+      "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+      "published_date": null,
+      "highlight": "Stripe | Financial Infrastructure to Grow Your Revenue\n\n## Flexible solutions for every business model.\n\nGrow your business with a comprehensive set of payments and financial tools⁠—⁠designed to work individually or together.\n\nGrow your business with the most comprehensive set of payments and financial tools.\n\n### Accept and optimize payments globally—online and in person\n\n### Enable any billing model\n\nPro Plan Billed monthly\n\nTokens $0.01 per 1,000 units\n\nTokens used in the last 30 days\n\n...\n\n## The backbone of global commerce\n\n135+\n\ncurrencies and payment methods supported\n\n$1.9T\n\nin payments volume processed in 2025\n\n99.999%\n\nhistorical uptime for Stripe services\n\n200M+\n\nactive subscriptions managed on Stripe Billing\n\n135+\n\ncurrencies and payment methods supported\n\n$1.9T\n\nin payments volume processed in 2025\n\n99.999%\n\nhistorical uptime for Stripe services\n\n200M+\n\nactive subscriptions managed on Stripe Billing\n\n## Powering businesses of all sizes.\n\nRun your business on a reliable platform that adapts to your needs.\n\n### Transform your enterprise with agile financial infrastructure\n\n50% of Fortune 100 companies have used Stripe to grow their businesses—from expanding internationally to reimagining the customer experience.\n\n### Hertz unifies commerce with Stripe.\n\n160\n\n countries\n\n11K+\n\n locations globally\n\nProducts used\n\n Payments, Terminal, Connect, Radar, and Stripe Sigma\n\n consumer brands in retailer portfolio\n\n700+\n\n store locations\n\nProducts used\n\n Payments, Terminal, Connect, Stripe Sigma, Radar, and Link\n\n600K+\n\n1.8K\n\n retail partners across nearly 100K stores\n\n of digital and print payments powered by Stripe\n\n to implement and",
+      "category": "profile",
+      "provider": "exa"
+    },
+    {
+      "id": "E5",
+      "url": "https://stripe.com/newsroom/news",
+      "title": "Stripe Newsroom: The Latest News & Announcements",
+      "published_date": "2026-10-06T00:00:00.000Z",
+      "highlight": "# Stripe report details how businesses can increase revenue in the face of rising ecommerce fraud\n\n July 18, 2022 \n\n# Revolut adds Stripe to accelerate global expansion\n\n July 6, 2022 \n\n# Stripe launches delegated authentication to improve payment conversion in Europe\n\n June 6, 2022 \n\n# Stripe launches Stripe Apps to help businesses build or discover tools that work seamlessly with Stripe\n\n May 24, 2022 \n\n# Stripe named Leader by independent research firm\n\n May 19, 2022 \n\n# Stripe introduces Data Pipeline to help users sync their data with Amazon Redshift and Snowflake Data Cloud\n\n May 18, 2022 \n\n# Stripe introduces Financial Connections to help businesses connect to their customers’ bank accounts\n\n May 4, 2022 \n\n# Stripe announces new partnerships and major expansion of global partner program\n\n April 26, 2022 \n\n# Stripe introduces global crypto payouts\n\n April 22, 2022\n\n...\n\n## Product\n\n# GoFundMe partners with Stripe to power enhanced fundraising experiences in North America\n\n March 24, 2021 \n\n# Stripe has raised a new round of funding to accelerate momentum in Europe and reinforce enterprise leadership\n\n March 14, 2021 \n\n# SaaS giant Atlassian selects Stripe to create a single platform for global billing and payments across all of its cloud product offerings\n\n March 3, 2021 \n\n# Stripe welcomes Mark Carney to its board of directors\n\n February 21, 2021 \n\n# Christa Davies joins Stripe’s board of directors\n\n January 13, 2021 \n\n# Stripe launches Stripe Treasury in major expansion of financial services offering for platform partners\n\n December 3, 2020 \n\n# Mindbody teams up with Stripe to fuel expansion in North America and Europe\n\n October 30, 2020 \n\n October 28, 2020 \n\n October 15, 2020 \n\n September 23, 2020 \n\n August 11, 2020 \n\n August 5, 2020 \n\n August 4, 2020 \n\n July 31, 2020 \n\n June 29, 2020 \n\n May 27, 2020 \n\n May 26, 2020 \n\n# QuadPay builds new installment model with Stripe Issuing\n\n May 7, 2020 \n\n# Major updates to Stripe’s payments platform increase revenue and reliability for businesses\n\n April 23, 2020 \n\n# Stripe extends Series G funding round\n\n April 16, 2020 \n\n# COVID-19 precautions for Stripe employees and customers\n\n March 2, 2020 \n\n# Lightspeed partners with Stripe to advance payments experience for customers in North America\n\n February 5, 2020 \n\n# Stripe launches in Mexico\n\n October 24, 2019 \n\n# Stripe launches in Malaysia\n\n October 7, 2019 \n\n September 19, 2019 \n\n# Stripe introduces the Stripe Corporate Card and activates payouts to 45 countries\n\n September 10, 2019 \n\n# Stripe launches in eight more European countries\n\n September 9, 2019 \n\n September 5, 2019 \n\n June 6\n\n...\n\n## Corporate\n\n# Stripe co-leads Series B funding round for Rapyd\n\n February 13, 2019 \n\n# Diane Greene joins Stripe’s board of directors\n\n January 30, 2019 \n\n# Proposition C\n\n October 19, 2018 \n\n# Stripe accelerates international expansion and product development with new round of funding\n\n September 26, 2018 \n\n# Stripe announces Stripe Terminal, a programmable point of sale for in-person payments\n\n September 17, 2018 \n\n# Stripe launches Stripe Issuing",
+      "category": "news",
+      "provider": "exa"
+    },
+    {
+      "id": "E6",
+      "url": "https://stripe.com/newsroom/news/sessions-2026",
+      "title": "Stripe builds out the economic infrastructure for AI with 288 launches",
+      "published_date": "2026-04-29T00:00:00.000Z",
+      "highlight": "Stripe builds out the economic infrastructure for AI with 288 launches \n\n# Stripe builds out the economic infrastructure for AI with 288 launches \n\n April 29, 2026 \n\n- New partnership with Google will allow businesses to sell inside AI Mode and the Gemini app \n- Stripe launches wallets for agents, powered by Link, and support for new AI-native business models \n- Major expansion to Stripe Treasury, including instant, free money transfers between businesses on Stripe \n\nSAN FRANCISCO—Stripe today announced 288 new products and features at Stripe Sessions, its annual customer conference, as the company builds the economic infrastructure for AI. That means accelerating AI companies’ growth, helping enterprises adapt to AI, preventing fraudsters from stealing tokens, and empowering agents as economic actors.\n\n...\n\nThe Agentic Commerce Suite now supports Google\n\nLast year, Stripe launched the Agentic Commerce Suite, a single integration that lets businesses sell their products inside AI apps. Kate Spade, Best Buy, and Coach are among the businesses already building with the Agentic Commerce Suite.\n\nToday, Stripe announced a partnership with Google that will allow businesses to sell to consumers inside AI Mode and the Gemini app. Businesses like Quince, Fanatics, and JD Sports are coming soon. This follows similar partnership announcements with OpenAI, Microsoft, and Meta. \n\nStripe is also bringing the Agentic Commerce Suite to platforms, so businesses on Wix, BigCommerce, WooCommerce, and more can easily sell to customers inside AI apps.\n\n...\n\nTo solve this, today\n\n...\n\nMassive expansion of Stripe Treasury, with instant, free money transfers between US businesses on Stripe\n\nThere’s a new breed of business building on Stripe: lean hyperscalers, growing revenue faster than ever and with a global customer base from the start. Their feedback has been consistent: they don’t just want Stripe to handle the money coming into their business, but to serve as their entire financial stack.\n\nToday, Stripe introduced the new Stripe Treasury: a global business account that allows companies to hold funds in 15 currencies and move money around the clock.\n\nBusinesses building on Stripe make payments to each other 4.8 million times a day. With Stripe Treasury, those transactions are now free and instant for US businesses.\n\nIn addition, businesses can now:\n\n- Operate Treasury through AI services like ChatGPT \n- Earn rewards on fiat and stablecoin balances \n- Get 2% cashback on card payments \n- Pay out to recipients in 100 countries with fiat, 160 with stablecoins\n\n...\n\nStripe Projects is now available to everyone, and includes new partners\n\nStripe Projects lets developers or their agents sign-up for, purchase, and integrate all the services they need to deploy products to the internet, directly from wherever they write (or prompt) code. It’s one of Stripe’s most highly anticipated products, with thousands of developers joining the waitlist in the first two days after the preview announcement last month. \n\nAs of today, Stripe Projects is available to all. \n\nStripe also announced 14 new partners for Stripe Projects, including Render, Twilio, Sentry, WorkOS, Browserbase, GitLab, and ElevenLabs. These partners join existing Projects partners for a total of 32 providers including Vercel, Clerk, Supabase, Hugging Face, and Cloudflare.\n\n...\n\nBeyond the headline announcements, Stripe announced 288 products and features today at Stripe Sessions. To see the full list, visit the Stripe blog.",
+      "category": "news",
+      "provider": "exa"
+    },
+    {
+      "id": "E7",
+      "url": "https://stripe.com/newsroom/news/fedex-and-stripe",
+      "title": "FedEx Dataworks and Stripe to join forces to reduce friction in global commerce for SMBs",
+      "published_date": "2026-10-06T00:00:00.000Z",
+      "highlight": "FedEx Dataworks and Stripe to join forces to reduce friction in global commerce for SMBs\n\n# FedEx Dataworks and Stripe to join forces to reduce friction in global commerce for SMBs \n\n October 6, 2026 \n\nThe long-term collaboration will create new solutions powered by supply chain intelligence and financial infrastructure.\n\nMEMPHIS AND SAN FRANCISCO—Today, FedEx Dataworks and Stripe announced a long-term, strategic collaboration to help reduce friction in global commerce by combining signals from the global FedEx network and Stripe financial infrastructure. The first joint solution is planned for launch in early 2027. The two companies plan to leverage their respective platforms to expand access to financing for tens of thousands of small- and medium-sized businesses (SMBs). Additionally, FedEx will begin using Stripe as an option to process payments, adding more than 50 new payment methods to their checkouts through Stripe.\n\n...\n\nSecuring capital remains a persistent hurdle for logistics-heavy SMBs. Traditional financing models rely on bank statements and credit scores, often overlooking operational indicators such as shipment activity, inventory movement, and fulfillment performance. By leveraging supply chain intelligence from FedEx Dataworks to help inform financing analysis with Stripe Capital, Dataworks and Stripe are seeking to close that gap and enable FedEx SMB customers to access funding that better reflects how they operate. With these real-time operational signals, Stripe will be better positioned to evaluate, approve, and deploy tailored funding more quickly than traditional lending processes, eliminating the friction for SMBs.\n\n...\n\nFedEx will also use Stripe to expand payment options for FedEx customers globally, adding more than 50 new payment methods to FedEx checkouts. With a wider variety of local payment methods, FedEx can help remove checkout friction so customers can pay how they prefer.\n\nThis announcement marks the beginning of a strategic, long-term collaboration between FedEx Dataworks and Stripe, laying the foundation for the next generation of business solutions powered by FedEx Dataworks logistics signals and Stripe’s financial infrastructure. As the collaboration evolves, both companies expect to scale these capabilities to meet the needs of increasingly complex global enterprise.",
+      "category": "news",
+      "provider": "exa"
+    },
+    {
+      "id": "E8",
+      "url": "https://stripe.com/blog/new-ways-for-fintechs-to-move-money-and-expand-globally",
+      "title": "New ways for fintechs to move money and expand globally",
+      "published_date": "2026-10-16T00:00:00.000Z",
+      "highlight": "# New ways for fintechs to move money and expand globally \n\n October 16, 2026 \n\n \n\n Neetika Bansal Business Lead, Money as a Service \n\nMany of the world’s leading fintechs use Stripe to build and scale, including 32 of the Forbes Fintech 50 (and counting). As these businesses expand into new markets, they need to deliver the same fast, reliable experience everywhere while supporting local payment methods, navigating local compliance requirements, and integrating new banking partners. \n\nWe’re introducing three updates to help fintechs launch products and grow internationally more easily: simpler payout management with Stripe Global Payouts, support for stablecoin cards in more countries, and unified APIs for building global financial products. \n\nHere’s what’s new.\n\n...\n\n## Send payouts to recipients in more than 160 markets\n\nWe’ve expanded Global Payouts to more markets and made it easier to set up and manage. Businesses can now send instant stablecoin payouts to recipients in 160 markets and traditional currency payouts to recipients in more than 100, directly from the Stripe Dashboard.\n\nFintechs can also use Global Payouts programmatically—by embedding hosted forms or integrating with flexible APIs—to enable use cases like loan disbursements, remittances, investment withdrawals, and neobank cash-outs within their products. Turo, for example, uses Global Payouts to send claims payments. The company has processed over $160 million, with a 99.5% payout success rate.\n\n...\n\n## Issue stablecoin cards in more countries\n\nStripe is launching stablecoin card issuing in 27 EU countries, bringing availability to more than 65 countries worldwide. We plan to expand to 100 countries by the end of 2026. With stablecoin cards on Stripe Issuing, fintechs can offer cards that draw from stablecoin balances held in a custodial wallet, noncustodial wallet, or Stripe financial account. When cardholders make a purchase, Stripe automatically converts their stablecoins into the local currency at the point of sale; merchants can accept these payments just like a traditional card payment.\n\nFintechs can use Issuing to launch a global stablecoin card program that works across markets with one integration, rather than connecting separate providers for card issuing, currency conversion, KYC and KYB verification, fraud management, and customer support. \n\nStripe Issuing already powers more than 400 million cards worldwide across commercial and consumer card programs. Stablecoin cards extend that infrastructure to fintechs and platforms building with stablecoins, enabling them to scale globally and reach a larger customer base.\n\n...\n\n## Grow your business on Stripe\n\nOver 1,500 fintechs on Stripe serve customers in more than 200 countries and territories. With Stripe’s unified stack, they don’t need to integrate and manage multiple vendors. Instead, they can use a single integration to build global financial products that support money movement, storage, and payment use cases while they continue to expand across markets.",
+      "category": "news",
+      "provider": "exa"
+    },
+    {
+      "id": "E9",
+      "url": "https://stripe.com/careers/search",
+      "title": "Stripe Careers | Open Roles",
+      "published_date": null,
+      "highlight": "Stripe Careers | Open Roles\n\n# Help implement the conditions for prosperity. Work on problems that matter at scale.\n\n- AEO and GEO Marketing Manager\n\nMarketing\n\nRemote in Canada\n- AEO and GEO Marketing Manager\n\nMarketing\n\nToronto\n- AEO and GEO Marketing Manager\n\nMarketing\n\nRemote in United States\n- AEO and GEO Marketing Manager\n\nMarketing\n\nAtlanta\n- AEO and GEO Marketing Manager\n\nMarketing\n\nChicago\n- AI Engineer\n\nSolutions Architect\n\nToronto\n- AI Engineer\n\nSolutions Architect\n\nAtlanta\n- AI Engineer\n\nSolutions Architect\n\nChicago\n- AI Solutions Program Manager, Finance\n\nControllership\n\nChicago\n- AI Solutions Program Manager, Finance\n\nControllership\n\nNew York\n- AI Solutions Program Manager, Finance\n\nControllership\n\nSeattle\n- AI Solutions Program Manager, Finance\n\nControllership\n\nSouth San Francisco HQ\n- AR Analyst\n\nControllership\n\nBengaluru\n- Abuse Investigator\n\nSecurity\n\nRemote in United States\n- Abuse Investigator\n\nSecurity\n\nAtlanta\n- Abuse Investigator\n\nSecurity\n\nChicago\n- Abuse Investigator\n\nSecurity\n\nNew York\n- Abuse Investigator\n\nSecurity\n\nSeattle\n- Abuse Investigator\n\nSecurity\n\nSouth San Francisco HQ\n- Abuse Investigator\n\nSecurity\n\nDublin HQ\n\nHelp us improve the conditions for economic growth and prosperity\n\nWe embrace diverse perspectives, ideas, and backgrounds at Stripe. We’re committed to providing equal employment opportunities for all applicants and employees. Stripe doesn’t discriminate on the basis of any protected characteristic, including race, color, ancestry, national origin, religion (including religious dress), creed, age, disability (mental and physical), sex, gender (including pregnancy, childbirth, breastfeeding, or related medical conditions), sexual orientation, gender identity, gender expression, medical condition, genetic information, family care or medical leave status, marital status, domestic partner status, military and veteran status (including military spouse status), or any other characteristic protected by US federal, state or local laws, or the laws of the country or jurisdiction where you work.\n\nThis commitment is also reflected in our candidate experience. We will work with your needs and provide any assistance we can. If you are a nursing mother or have individual needs related to a disability, please reach out to accommodations@stripe.com.\n\nIf you’re having trouble submitting an application or experiencing other technical difficulties with this site, please reach out to candidatefeedback-applications@stripe.com.\n\nCA residents: +1 888 926 2289",
+      "category": "hiring",
+      "provider": "exa"
+    },
+    {
+      "id": "E10",
+      "url": "https://stripe.com/careers",
+      "title": "Stripe Careers | Shape the Future of the Global Economy",
+      "published_date": null,
+      "highlight": "Stripe Careers | Shape the Future of the Global Economy\n\n# Implement the conditions for prosperity\n\n## Our mission is to increase economic growth. At Stripe, you can make that happen.\n\nWe exist to increase economic growth, and we pursue it on every front: by building tools that make it easier and cheaper for ambitious businesses to start and scale, by publishing ideas that advance progress, and by creating the economic infrastructure for AI. Your work will define how the world transacts.\n\n...\n\nWhat does it take to do well at Stripe?\n\nThe bar at Stripe is high, and the people who do well here tend to share a few traits. We find that success depends less on background and more on how Stripes approach their work and handle the challenges that inevitably arise at a fast-moving and dynamic company. Successful Stripes tend to be motivated by our mission. That’s what fuels their ambition and their sense of ownership, which extends beyond their own expertise. At Stripe, we’re in this together, and you’ll fix things that don’t “belong” to you. People who thrive here also tend to choose challenge over comfort. When something doesn’t add up, they get curious about why, and they change their mind when the evidence shows they were wrong.\n\nWhat does career growth look like at Stripe?\n\nFast, if you seek it out. Stripe gives people ownership early, which means you could find yourself leading significant work sooner than you would elsewhere. Promotions are tied to demonstrated impact, not tenure. We invest in development through stretch projects, direct feedback, and options for internal mobility.\n\nWhat should I expect during the Stripe hiring process?\n\nMost processes include a recruiter screen, a technical or skills-based assessment, and a series of interviews with the team you’d be joining. Timelines vary by role, level, and location—some move in a few weeks, others take longer. We try to work quickly and give clear feedback at every stage.\n\nHow do I know if a Stripe recruiter contacting me is legitimate?\n\nStripe recruiters reach out through official channels—LinkedIn or an @stripe.com email address—and will never ask for payment, personal financial information, or login credentials at any point in the process. If something feels off, trust that instinct.",
+      "category": "hiring",
+      "provider": "exa"
+    },
+    {
+      "id": "E11",
+      "url": "https://boards.greenhouse.io/embed/job_board?for=stripe",
+      "title": "Jobs at Stripe",
+      "published_date": null,
+      "highlight": "Jobs at Stripe\n\n## 6220 Executive Operations\n\n Administrative Coordinator Mexico City \n\n## 2413 Communications\n\n Short-form Video & Social, Community Comms SF, NYC \n\n## 4202 BFin - FinOps (SDC)\n\n Head of Global Finance and Accounting Operations Bengaluru \n\n Vendor Onboarding Specialist Bengaluru \n\n Contracting Operations Specialist Bengaluru \n\n Strategic Sourcing Specialist Bengaluru \n\n Procurement Operations Partner Bengaluru \n\n Global Payroll Partner Bangalore \n\n AI Solutions Developer, Finance IN - Bengaluru \n\n## 4203 BFin - Accounting (SDC)\n\n Legal Entity Controller Bangalore \n\n Processing Cost Accountant Bangalore \n\n## 4204 SDC - MonOps\n\n Monetization Operation Analyst Bengaluru \n\n Accounts Receivable Analyst Bengaluru \n\n## 6420 Accounting\n\n Financial Reporting and Corporate Accounting US-SEA, US-SF \n\n Technical Accounting & Policy US-SEA or US-SF \n\n Loss Accounting, Operational & Analytics Seattle, San Francisco \n\n Crypto Accounting Team Lead San Francisco, Seattle \n\n Crypto Product Accountant SF, SEA \n\n Corporate Accounting San Francisco, Seattle \n\n## 6425 Finance Operations\n\n US Payroll Tax Specialist Bengaluru \n\n## 6426 Monetization Operations\n\n Head of Monetization and Contract Success (MACS) SEA \n\n## 6427 Procurement\n\n Program Manager, Third Party Regulatory Risk Dublin, London, Remote \n\n## 6482 SOX\n\n SOX IT Controls Lead Seattle, San Francisco \n\n## 6310 Corporate Affairs\n\n Corporate Paralegal SF Bay Area, US-National \n\n## 6320 Commercial Legal\n\n Commercial Counsel, Crypto New York City, Seattle, San Francisco, Chicago, Atlanta, US-Remote \n\n Legal Counsel, APAC Marketing Singapore \n\n Legal Counsel, EMEA Marketing Dublin, London \n\n Commercial Counsel United States \n\n## 6330 Americas Regulatory Affairs\n\n Regulatory Counsel Remote US and Canada \n\n## 6360 Product & Partnering Legal\n\n Product Counsel, Crypto and Money Movement Legal London, Dublin \n\n Product Counsel, Payments US-Remote, US-SEA, US-SF, US-NYC \n\n## 6443 GTM F&S\n\n Product Sales Finance & Strategy Lead San Francisco, Seattle, New York \n\n Finance and Strategy Partner Chicago, San Francisco, Seattle, New York City \n\n GTM Finance & Strategy Sales Manager San Francisco, Seattle \n\n Finance & Strategy Analyst San Francisco, New York City, Seattle \n\n## 6452 Sales Comp\n\n Sales Compensation Analyst Bengaluru \n\n## 5112 General University\n\n Software Engineering, New Grad Singapore \n\n Software Engineer, Intern Singapore \n\n Software Engineer, Intern Dublin \n\n Software Engineer, New Grad Toronto \n\n Software Engineer, New Grad Dublin \n\n Software Engineer, Intern (Summer) San Francisco, Seattle, New York City \n\n Software Engineer, New Grad Barcelona \n\n PhD Machine Learning Engineer, Intern San Francisco, New York City, Seattle \n\n PhD Machine Learning Engineer, New Grad San Francisco, New York City, Seattle \n\n PhD Data Scientist, Intern Toronto, Ontario, Canada \n\n Data Analyst, Intern (Master's degree) Toronto, Ontario, Canada \n\n Software Engineer, Intern London \n\n Security Engineer, New Grad Seattle, WA; San Francisco, CA; Toronto, CAN \n\n## 3311 FinCRO\n\n BSA Officer, US United States \n\n User Enablement Compliance Manager Dublin OR London \n\n FinCRO PMO, Program Manager Dublin, London \n\n Affiliate Services - Safeguarding Audit Lead London, Dublin \n\n Canada Money Laundering Reporting Officer (MLRO) Canada \n\n## 3510 Global Partnerships\n\n Program Manager, Card Network Office (CNO) USA - San Francisco, Seattle, New York (office) or remote \n\n Partner Development Manager (Banks) London - United Kingdom \n\n Technical Partner Manager, Global Partner Engineering & Operations Singapore \n\n Technical Partner Manager - Networks US-Remote; US-Chicago; US-Atlanta; Canada-Toronto \n\n Program Manager, Global Partner Engineering & Operations (PE&O) US-Seattle; US-SF; US-NYC; US-Remote; Canada-Toronto; Canada-Remote \n\n## 3511 Financial Services Partnerships\n\n Partner Development Manager, Financial Partnership Capabilities US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote \n\n Partner Development Manager, Global Networks US-Remote; US-Chicago; US-Atlanta; CA-Toronto \n\n## 3512 RFA, P&E, and Connectors Partnerships\n\n Partner Development Manager, Ecosystem Product US-Remote; US- Chicago;",
+      "category": "hiring",
+      "provider": "exa"
+    },
+    {
+      "id": "E12",
+      "url": "https://stripe.com/newsroom/information",
+      "title": "Stripe Newsroom | Information and assets",
+      "published_date": null,
+      "highlight": "Stripe is a technology company that builds economic infrastructure for the internet. Businesses of every size—from ... to public companies—use our software to accept payments and manage their businesses online.\n\n...\n\n, ... as ... in ... ,\n\n...\n\n# Leadership \n\n# Patrick Collison \n\nCofounder and CEO\n\n# John Collison \n\nCofounder and President\n\n# Will Gaybrick \n\nPresident, Technology and Business\n\n# Trish Walsh \n\nGeneral Counsel\n\n# Eileen O’Mara \n\nVice Chair\n\n# Jeff Titterton \n\nChief Marketing Officer\n\n# Steffan Tomlinson \n\nChief Financial Officer\n\n# Rob McIntosh \n\nChief People Officer\n\n# Tyler Bryson \n\nChief Revenue Officer\n\n# Claire Hughes Johnson \n\n# Patrick Collison \n\nChief Executive Officer and Cofounder, Stripe\n\n# John Collison \n\nPresident and Cofounder, Stripe\n\n# Bill Winters, CBE \n\nIndependent Director — Group Chief Executive, Standard Chartered\n\n# Christa Davies \n\nLead Independent Director — Former Chief Financial Officer, Aon\n\n# Kevin Kelly \n\nIndependent Director — Partner, CIO, HRTG Partners\n\n# Luciana Lixandru \n\nIndependent Director — Partner, Sequoia Capital\n\n# Matthew Huang \n\nIndependent Director — Cofounder, Paradigm\n\n# Parker Conrad \n\nIndependent Director — CEO, Rippling",
+      "category": "leadership",
+      "provider": "exa"
+    },
+    {
+      "id": "E13",
+      "url": "https://stripe.com/sessions/2024/opening-keynote",
+      "title": "Opening keynote | Stripe Sessions",
+      "published_date": null,
+      "highlight": "# Runtime \n\nStripe’s leadership team shares our progress across three core product areas: Global Payments, Embedded Payments and Finance, and Revenue and Finance Automation. See what’s new—including AI-powered payments, our biggest-ever upgrades to Stripe Connect, and support for usage-based billing—and learn how we’re evolving to interoperate with other payments providers.\n\n### Speakers\n\nPatrick Collison, Cofounder and CEO, Stripe John Collison, Cofounder and President, Stripe Will Gaybrick, President, Product and Business, Stripe Neetika Bansal, Head of Payments, Engineering, Stripe Dave Hayne, Chief Technology Officer, URBN & President, Nuuly Tanya Khakbaz, Head of Product Marketing, Stripe Alex Vogenthaler, Head of Payments and Connect Product, Stripe Bharath Srivatsan, Product Engineer, Stripe Kady Srinivasan, Chief Marketing Officer, Lightspeed Sharmeen Browarek Chapp, Head of Product, Revenue and Finance Automation, Stripe David Singleton, Chief Technology Officer, Stripe Daniela Amodei, President and Cofounder, Anthropic\n\n...\n\nANNOUNCER: Please welcome Stripe cofounders, Patrick and John Collison.\n\n...\n\nPATRICK COLLISON: Good morning. This is, by far, our largest Sessions ever; more than twice as large as last year. (Audience applauding.) And that we can all come together like this as a testament both to the vibrancy of the internet economy today but also to the growth of the Stripe community. So we want to start out by simply saying thank you to all of you for working with us",
+      "category": "leadership",
+      "provider": "exa"
+    },
+    {
+      "id": "E14",
+      "url": "https://jobs.a16z.com/company/stripe",
+      "title": "Stripe | Andreessen Horowitz",
+      "published_date": null,
+      "highlight": "# Stripe\n\nFintech Financial infrastructure San Francisco & Dublin Founded 2010\n\nstripe.com Careers\n\n## Overview\n\nStripe builds programmable financial infrastructure that helps businesses accept payments, manage billing, and move money. Its products connect online commerce, software platforms, subscriptions, and new ways for AI agents to transact.\n\nFounded 2010 by Patrick and John Collison\n\nValuation ... 1 ... employee tender offer · February 2026\n\n...\n\n## Product story\n\n2010 Founded by the Collisons Patrick and John start Stripe 2012 Payments for platforms Stripe Connect 2016 A starting point for founders Stripe Atlas 2018 Beyond one-time payments Stripe Billing 2025 Building on stablecoins Bridge joins Stripe 2026 Commerce for AI agents New payment primitives\n\n2010\n\nFounded by the Collisons\n\nPatrick and John Collison founded Stripe in 2010. Its focus: software that makes it easier for businesses to accept payments and operate online.\n\n...\n\nGeneral Catalyst led · Sequoia, Redpoint, Peter Thiel, Elad Gil, Chris Dixon, and Aaron Levie.+ all investors\n\n## Team\n\nPatrick Collison Cofounder & CEO Grew up in Ireland and studied at MIT. Also cofounded the Arc Institute for biomedical research. Patrick Collison · About ↗\n\nWill Gaybrick President, Technology and Business Leads the technology and business organizations behind Stripe’s financial infrastructure. Stripe · Leadership ↗\n\nSteffan Tomlinson Chief Financial Officer Brings finance experience from Confluent, Google Cloud, and Palo Alto Networks. Stripe · CFO announcement ↗\n\nRob McIntosh Chief People Officer Leads Stripe’s people organization. Stripe · Leadership ↗\n\nTyler Bryson Chief Revenue Officer Joined Stripe in 2025 to lead Americas Revenue and Global Solutions after more than two decades at Microsoft. Stripe · CRO appointment ↗",
+      "category": "leadership",
+      "provider": "exa"
+    },
+    {
+      "id": "E15",
+      "url": "https://en.wikipedia.org/wiki/Stripe,_Inc.",
+      "title": "Stripe, Inc.",
+      "published_date": "2026-10-03T00:00:00.000Z",
+      "highlight": "Stripe, Inc.\n\n| Stripe, LLC | |\n| --- | --- |\n| | |\n| Headquarters in South San Francisco | |\n| Type | Private |\n| Industry | Financial services Payment processor |\n| Founded | 2009; 17 years ago |\n| Founders | Patrick Collison John Collison |\n| Headquarters | South San Francisco, California, U.S. and Dublin, Ireland |\n| Services | Payments Billing Connect Sigma Atlas Radar (fraud prevention) Issuing Terminal Crypto Usage-based billing Tax |\n| Revenue | US$ 5.1 billion (2024) [1] |\n| Number of employees | 8,500 (2025) [2] |\n| Subsidiaries | OpenRouter |\n| Website | stripe.com |\n\n...\n\n## History\n\nIrish entrepreneur brothers John and Patrick Collison founded Stripe in Palo Alto, California, in 2010, and serve as the company's president and CEO, respectively. [7] [8] In 2011 the company received a $2 million investment, including contributions from Elon Musk, PayPal founder Peter Thiel, Irish entrepreneur Liam Casey, [9] and venture capital firms Sequoia Capital, Andreessen Horowitz, and SV Angel. [10]\n\n...\n\nannounced ... ]",
+      "category": "leadership",
+      "provider": "exa"
+    }
+  ],
+  "generated_at": "2026-10-18T13:46:49.391002+00:00"
+}

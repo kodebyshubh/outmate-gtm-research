@@ -1,0 +1,31 @@
+{
+  "requestId": "6a5b26bd8da06a5674408b2715d6c9d8",
+  "resolvedSearchType": "",
+  "results": [
+    {
+      "id": "https://stripe.com/about",
+      "title": "About Us | Stripe",
+      "url": "https://stripe.com/about",
+      "highlights": [
+        "About Us | Stripe\n\nStripe is a technology company focused on improving the conditions for economic growth and prosperity.\n\nWe build programmable financial infrastructure, rethinking from first principles how financial services should work, to make it easier and cheaper for any business to start and scale.\n\nMore than 5 million businesses build on Stripe, spanning the economic frontier\u2014from solo founders to established enterprises\u2014united by a practical focus on growth. The most ambitious companies in the world use Stripe as core infrastructure to grow faster. They process trillions of dollars a year on Stripe, equivalent to around 1.7% of global GDP.\n\nWhile economic growth makes everyone better off, open markets also enable greater variety. When any business can easily serve a global customer base, the quality and diversity of products in the world increase, and craft and creativity are unleashed into the smallest niches.\n\nOur own growth is wholly contingent on the success of the businesses building on Stripe. We therefore invest back into our technology at an unusual rate. We make upgrades to our products every single day to deliver compounding gains to our customers. We maintain some of the most reliable APIs on the internet. We build entirely new pieces of financial infrastructure to enable new ideas. And our significant advances in risk and fraud infrastructure over many years are making the internet economy safer and more accessible.\n\nWe recognize that markets work best when they are embedded in hospitable cultures. In addition to building tools for businesses, we also publish ideas that we think are conducive to economic and technological advancement, and make unconventional bets that we think will have a long-term impact on growth. In the words of Deirdre McCloskey, economic growth ensues when people possess the freedom to \u201chave a go,\u201d and we think that free exchange and free societies go hand in hand."
+      ],
+      "image": "https://b.stripecdn.com/mkt-ssr-statics/assets/_next/static/media/stripe.37119086.jpg"
+    },
+    {
+      "id": "https://stripe.com/newsroom/information",
+      "title": "Stripe Newsroom | Information and assets",
+      "url": "https://stripe.com/newsroom/information",
+      "highlights": [
+        "# Our mission is to increase the GDP of the internet \n\nStripe is a technology company that builds economic infrastructure for the internet. Businesses of every size\u2014from new startups to public companies\u2014use our software to accept payments and manage their businesses online. \n\nStripe has dual headquarters in San Francisco and Dublin, as well as offices in London, Paris, Singapore, Tokyo, and other locations around the world.\n\n# 100+ \n\nindustry leaders process more than $1B annually on Stripe.\n\n# $1.4T+ \n\nin payments processed by businesses on Stripe in 2024.\n\n# 135+ \n\ncurrencies and payment methods supported.\n\n# 50+ \n\ncountries where Stripe is available to businesses.\n\n...\n\n# Leadership \n\n# Patrick Collison \n\nCofounder and CEO\n\n# John Collison \n\nCofounder and President\n\n# Will Gaybrick \n\nPresident, Technology and Business\n\n# Trish Walsh \n\nGeneral Counsel\n\n# Eileen O\u2019Mara \n\nVice Chair\n\n# Jeff Titterton \n\nChief Marketing Officer\n\n# Steffan Tomlinson \n\nChief Financial Officer\n\n# Rob McIntosh \n\nChief People Officer\n\n# Tyler Bryson \n\nChief Revenue Officer\n\n# Claire Hughes Johnson \n\n# Patrick Collison \n\nChief Executive Officer and Cofounder, Stripe\n\n# John Collison \n\nPresident and Cofounder, Stripe\n\n# Bill Winters, CBE \n\nIndependent Director \u2014 Group Chief Executive, Standard Chartered\n\n# Christa Davies \n\nLead Independent Director \u2014 Former Chief Financial Officer, Aon\n\n# Kevin Kelly \n\nIndependent Director \u2014 Partner, CIO, HRTG Partners\n\n# Luciana Lixandru \n\nIndependent Director \u2014 Partner, Sequoia Capital\n\n# Matthew Huang \n\nIndependent Director \u2014 Cofounder, Paradigm\n\n# Parker Conrad \n\nIndependent Director \u2014 CEO, Rippling"
+      ],
+      "image": "https://images.stripeassets.com/fzn2n1nzq965/3I8VZjmeW0Kb4uNFyYdYx3/953c5936e18e5f8f42417f7cb7409d4f/newsroom-stripe-default-social-card.png?q=80"
+    }
+  ],
+  "searchTime": 4643.1,
+  "costDollars": {
+    "total": 0.007,
+    "search": {
+      "neural": 0.007
+    }
+  }
+}
